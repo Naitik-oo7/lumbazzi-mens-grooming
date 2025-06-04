@@ -1,3 +1,5 @@
+E-commerce Platform
+
 Lumbazzi specializes in handmade personal care products for men who aim high in life and self-care. Their offerings include beard oils, face oils, soap bars, lip balms, and grooming accessories, all crafted with a commitment to purity and excellence.
 
 🚀 Project Features
